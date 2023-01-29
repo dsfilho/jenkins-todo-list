@@ -1,4 +1,4 @@
-ECHO TESTE AQUI
+echo TESTE AQUI
 FROM python:3.6
 #Copiando os arquivos do projeto para o diretorio usr/src/app 
 COPY . /usr/src/app
